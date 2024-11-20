@@ -2,7 +2,7 @@
 
 #### I'm a Computer Science student at the Federal Institute of Maranhão (IFMA - BRAZIL 🇧🇷 ) and I'm currently in my 2st term.
 
-#### I'm always looking for opportunities to apply and improve my programming skills. I maintain a repository on GitHub where I share my projects in HTML, CSS and Javascript. I'm eager to explore more fields and contribute innovative solutions.
+#### I'm always looking for opportunities to apply and improve my programming skills. I have these repositories for study, practice and so that interested people can see my progress in the area. My focus at the moment is JavaScript but I'm going to study more about databases, DevOps and OOP.
 
 #### I'm open to internship opportunities where I can apply what I've learned and gain practical experience. Feel free to get in touch!
 
