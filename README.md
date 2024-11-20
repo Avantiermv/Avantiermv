@@ -1,6 +1,6 @@
 # Hi, I am Marcos Vinicius 😁
 
-#### I'm a Computer Science student at the Federal Institute of Maranhão (IFMA - BRAZIL 🇧🇷 ) and I'm currently in my 1st term.
+#### I'm a Computer Science student at the Federal Institute of Maranhão (IFMA - BRAZIL 🇧🇷 ) and I'm currently in my 2st term.
 
 #### I'm always looking for opportunities to apply and improve my programming skills. I maintain a repository on GitHub where I share my projects in HTML, CSS and Javascript. I'm eager to explore more fields and contribute innovative solutions.
 
