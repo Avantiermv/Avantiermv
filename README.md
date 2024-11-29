@@ -1,4 +1,4 @@
-# Hi, I am Marcos Vinicius 😁
+# Hi, I'm Marcos Vinicius 👋
 
 #### I'm a Computer Science student at the Federal Institute of Maranhão (IFMA - BRAZIL 🇧🇷 ) and I'm currently in my 2st term.
 
