@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-v-94535322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Avantiermv&theme=dark)](https://git.io/streak-stats)
+
 
 
 
