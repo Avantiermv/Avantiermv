@@ -1,4 +1,4 @@
-# Iae, eu sou o Marcos!
+# Opa, eu sou o Marcos!
 
 #### Estou sempre procurando oportunidades para aplicar e aprimorar minhas habilidades de programação. Tenho esses repositórios para estudo, prática e para que as pessoas interessadas possam ver meu progresso na área. No momento, meu foco é o desenvolvimento web.
 
