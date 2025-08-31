@@ -1,7 +1,6 @@
 <h1 align="center">👨‍💻 Marcos • Desenvolvedor Full Stack</h1>
 
-  <img src="https://readme-typing-svg.demolab.com/?color=00F7FF&size=22&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+portfólio!;Desenvolvedor+Full+Stack" alt="Typing SVG" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00F7FF&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+portfólio!;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 ---
 
