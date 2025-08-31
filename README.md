@@ -19,7 +19,7 @@ Olá! Sou Marcos. Estou sempre procurando oportunidades para aplicar e aprimorar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-008000?style=flat&logo=express&logoColor=white)
 
 ## 📂 Projetos em destaque
 
