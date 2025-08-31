@@ -1,11 +1,8 @@
 <h1 align="center">👨‍💻 Marcos • Desenvolvedor Full Stack</h1>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00F7FF&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+portfólio!;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?color=00F7FF&size=22&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+portfólio!;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -54,4 +51,4 @@ Olá! Sou Marcos. Estou sempre procurando oportunidades para aplicar e aprimorar
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<p align="center"><i>“Tudo o que temos de decidir é o que fazer com o tempo que nos é dado...”</i></p>
+<p align="center"><i>"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado..."</i></p>
