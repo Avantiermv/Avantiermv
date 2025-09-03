@@ -8,7 +8,7 @@
 
 Olá! Sou Marcos. Estou sempre procurando oportunidades para aplicar e aprimorar minhas habilidades de programação. Tenho esses repositórios para estudo, prática e para que as pessoas interessadas possam ver meu progresso na área. No momento, meu foco é o desenvolvimento web.
 
-- 🔧 Tecnologias favoritas: `JavaScript`,
+- 🔧 Tecnologias favoritas: `JavaScript`
 - 🎯 Foco atual: Desenvolvimento de aplicações web
 - 📚 Aprendendo: `Express`, `Node.js`, `MySQL`, `Padrões de Projeto`, `TypeScript`
 
