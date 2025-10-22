@@ -25,7 +25,7 @@ Olá! Sou Marcos. Estou sempre procurando oportunidades para aplicar e aprimorar
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🔗 Gerador de Tickets](https://avantiermv.github.io/conference-ticket-generator-main/) | Aplicativo de gerção de Tickets | JavaScript, API |
+| [🔗 Gerador de Tickets](https://avantiermv.github.io/conference-ticket-generator-main/) | Aplicativo de geração de Tickets | JavaScript, API |
 | [🔗 Gerenciador de Extensões ](https://avantiermv.github.io/browser-extensions-manager-ui-main/) | Site gerenciador de Extensões | JavaScript, ES6 modules |
 
 ---
